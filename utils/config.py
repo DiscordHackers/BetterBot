@@ -1,0 +1,1 @@
+TOKEN = 'OTQxNzg1OTA0MDg1ODY4NjA0.YgbAeQ.YdmB4Sfx8zHYNj_xJettDL3Pzrc' # Файл можешь удалить. Тут типа ТВОЙ конфиг вайл и ТВОЙ токен.

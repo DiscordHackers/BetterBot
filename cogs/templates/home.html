@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>BetterAPI | Home</title>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css')}}">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<h1>BETTER</h1>
+<a href="https://api.betterbot.ru/v2/picture">
+  <button>Picture</button>
+</a>
+<a href="https://api.betterbot.ru/v2/filter">
+  <button>Filters</button>
+</a>
+<a href="https://api.betterbot.ru/v2/roleplay">
+  <button>RolePlay</button>
+</a>    
+<h1>API</h1>
+<!-- partial -->
+  <script src="{{ url_for('static', filename='script.js')}}"></script>
+
+</body>
+</html>
+
+<div class="footer">
+  <p>Thanks <a href="https://frimebot.ru">frimebot.ru</a> for helping made this cool API ♡</p>
+</div>

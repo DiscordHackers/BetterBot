@@ -1,0 +1,6 @@
+psutil
+Pillow
+aiosqlite
+aiohttp
+requests
+sdc_api_py
